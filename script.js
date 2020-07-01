@@ -101,7 +101,7 @@ fiveDayForecast();
 $("button").on("click", function(event) {
   event.preventDefault();
 
-  var apiKey = "03e24d7d731fc83efc64f5aa4eb937c1";
+  var apiKey = "cef0695db416382b60413ff8d13e6a75";
   var getWeather = $("#get-weather");
   var city = getWeather.val().trim();
   cities.push(city)
