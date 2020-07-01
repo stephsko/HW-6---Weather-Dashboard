@@ -10,3 +10,5 @@ The weather dashboard application uses the OpenWeather API to retrieve weather d
 
 ### Deployed link to page:
 https://stephsko.github.io/HW-6---Weather-Dashboard/
+
+![Screen Shot 2020-06-29 at 3 27 56 PM](https://user-images.githubusercontent.com/65914787/86191597-1042be80-bb0d-11ea-8d3d-70906e34b535.png)
